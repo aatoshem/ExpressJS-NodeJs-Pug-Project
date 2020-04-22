@@ -1,0 +1,24 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "description": "Express, Node, Pug Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aatoshem/ExpressJS-NodeJs-Pug-Project.git"
+  },
+  "keywords": [
+    "Express",
+    "NodeJs",
+    "Pug"
+  ],
+  "author": "Atoshem Ghebrehiwet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
